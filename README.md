@@ -25,6 +25,7 @@ Before installation, you'll need:
    - Set "Shell" to "/bin/bash"
    - Set "Pass input" to "as arguments"
 6. Copy and paste this script:
+   
 ```bash
 #!/bin/bash
 
@@ -106,10 +107,11 @@ If the Quick Action doesn't appear:
 1. Check System Settings > Extensions > Finder
 2. Ensure "Convert to GIF" is enabled
 3. Verify FFmpeg installation by running in Terminal:
+   
    ```bash
    which ffmpeg
    ```
-4. Check permissions in System Settings > Privacy & Security > Automation
+5. Check permissions in System Settings > Privacy & Security > Automation
 
 ## License
 
