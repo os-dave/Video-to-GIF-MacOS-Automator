@@ -8,6 +8,7 @@ Before installation, you'll need:
 1. macOS (tested on Monterey and later)
 2. [Homebrew](https://brew.sh/) package manager
 3. FFmpeg installed via Homebrew:
+
    ```bash
    brew install ffmpeg
    ```
