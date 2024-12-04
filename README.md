@@ -17,6 +17,7 @@ Before you begin, ensure you have:
 - macOS (tested on Monterey and later)
 - [Homebrew](https://brew.sh/) package manager
 - FFmpeg installed via Homebrew:
+  
   ```bash
   brew install ffmpeg
   ```
